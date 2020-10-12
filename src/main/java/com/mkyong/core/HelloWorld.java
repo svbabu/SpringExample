@@ -12,6 +12,7 @@ public class HelloWorld {
 	}
 
 	public void printHello() {
+		//print method
 		System.out.println("Spring 3 : Hello ! " + name);
 	}
 }
